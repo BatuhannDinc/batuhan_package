@@ -20,7 +20,7 @@ class NameBox extends StatelessWidget {
       child: Center(
         child: Text(
           name,
-          style: TextStyle(fontSize: size * 0.2),
+          style: TextStyle(fontSize: size * 2),
         ),
       ),
     );
